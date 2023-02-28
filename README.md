@@ -16,8 +16,3 @@ Riscv::supervisorTrap() is interrupt service routine for all interrupts, method 
 - external interrupt, generated from external controller
 
 Basic hardware data is given in [lib/hw.h](https://github.com/nikola00nikola/OS-kernel-for-processor-RiscV/blob/main/lib/hw.h) .
-
-Most important classes:
-- TCB (Thread control block)
-- Scheduler
-- MemoryAllocator
