@@ -1,7 +1,7 @@
 
 # Risc V OS Kernel
 
-Little functional OS for Risc V processor from scratch.
+Little, but functional OS for Risc V processor from scratch.
 
 RiscV-64IMA(I- basic operations with integers, M- mul/div with integers, A-atomic operations)
 
