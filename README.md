@@ -14,6 +14,7 @@ Riscv::supervisorTrap() is interrupt service routine for all interrupts, method 
 - system call
 - software interrupt, generated from timer (generates every 0.1s, pre-configured)
 - external interrupt, generated from external controller
+
 Basic hardware data is given in [lib/hw.h](https://github.com/nikola00nikola/OS-kernel-for-processor-RiscV/blob/main/lib/hw.h) .
 
 Most important classes:
